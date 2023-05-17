@@ -12,7 +12,7 @@ const Post = (props) => {
           </CardContent>
           <CardContent>
             <Typography variant="subtitle1" marginRight="10vh">
-              {props.author}
+              Author : {props.author}
             </Typography>
           </CardContent>
         </Stack>
